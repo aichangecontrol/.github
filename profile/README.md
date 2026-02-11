@@ -14,12 +14,16 @@ AICC is designed to be **audit-first**, **execution-agnostic**, and **minimal by
 
 ---
 
-## Repositories
+## Core Repositories
 
-- **[aicc-spec](https://github.com/aichangecontrol/aicc-spec)** — Specification, semantics, and schema
-- **[aicc-cli](https://github.com/aichangecontrol/aicc-cli)** — Reference validator and plan normalizer
-- **[aicc-docs](https://github.com/aichangecontrol/aicc-docs)** — Documentation and guides
+- 🔹 **[aicc-spec](https://github.com/aichangecontrol/aicc-spec)**  
+  Open specification, semantics, and validation schema.
 
+- 🔹 **[aicc-cli](https://github.com/aichangecontrol/aicc-cli)**  
+  Reference validator and normalized plan generator.
+
+- 🔹 **[aicc-docs](https://github.com/aichangecontrol/aicc-docs)**  
+  Documentation, examples, and implementation guidance.
 
 ---
 
